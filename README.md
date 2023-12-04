@@ -1,4 +1,3 @@
-# CJR_Electronics_IDH//
 <html>
 <cms>
 <head>
