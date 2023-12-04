@@ -4,7 +4,7 @@
     <title>CJR ELECTRONICS IDH</title>
 </head>
 <body><h1><u><b><p align ="center">
-<font size=''5" face=''verdana" color="#ff0000">CJR <sub>x</sub>ELECTRONICS IDH<sup></sup></font></u></h1>
+<font size=''5" face=''verdana" color="#ff0000">CJR <sub></sub>ELECTRONICS IDH<sup></sup></font></u></h1>
 <h1><p align ="center">
 <font size=''5" face=''verdana" color="#FF0000">MR </font>
 <font size=''5" face=''verdana" color="#00FF00">C4S </font>
