@@ -1,10 +1,7 @@
 <html>
-<cms>
+
 <head>
-    <title>CJR ELECTRONICS IDH<html>
-<cms>
-<head>
-    <title>MR C4S FF</title>
+    <title>CJR ELECTRONICS IDH</title>
 </head>
 <body><h1><u><b><p align ="center">
 <font size=''5" face=''verdana" color="#ff0000">MR <sub>x</sub>C4S FF<sup>TM</sup></font></u></h1>
